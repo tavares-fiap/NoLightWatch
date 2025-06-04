@@ -49,4 +49,5 @@ Desenvolvemos um sistema em Python utilizando MediaPipe capaz de:
 3. Escolha um vídeo da pasta /videos , use a webcam ou envie seu proprio video para analise.
 
 ### 👥 Integrantes
-Pedro Henrique Pedrosa Tavares - RM97877
+Pedro Henrique Pedrosa Tavares - RM 97877
+Pedro Oliveira Valotto - RM 551445

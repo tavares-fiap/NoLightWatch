@@ -73,6 +73,3 @@ def analisar_video(fonte):
 
     cap.release()
     cv2.destroyAllWindows()
-
-if __name__ == "__main__":
-    main()

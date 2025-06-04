@@ -25,12 +25,15 @@ Desenvolvemos um sistema em Python utilizando MediaPipe capaz de:
 
 ### 🖼️ Ilustrações
 ![Captura de tela 2025-06-04 114542](https://github.com/user-attachments/assets/d43805e8-c315-4450-b115-09b4c48295cd)
+
 (*Imagem mostrando a janela do Tkinter com botões de "Usar webcam" e "Analisar vídeo selecionado"*).
 
 ![Captura de tela 2025-06-04 114733](https://github.com/user-attachments/assets/085b50c0-f735-4404-9c92-0002b99f33b1)
+
 (*Imagem de uma pessoa com as mãos levantadas, com a mensagem “PEDIDO DE AJUDA DETECTADO” sobreposta.*)
 
 ![Captura de tela 2025-06-04 114559](https://github.com/user-attachments/assets/4f261655-2689-4adf-9fd6-951e3ddedd89)
+
 (*Imagem de uma pessoa no chão, com a linha vermelha no meio da tela e a mensagem “QUEDA DETECTADA”.*)
 
 ## ▶️ Vídeo Demonstrativo

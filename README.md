@@ -24,13 +24,13 @@ Desenvolvemos um sistema em Python utilizando MediaPipe capaz de:
 - A queda é identificada pela posição horizontal do corpo e proximidade com o chão.
 
 ### 🖼️ Ilustrações
-**Figura 1:** Interface do sistema com lista de vídeos.  
+![Captura de tela 2025-06-04 114542](https://github.com/user-attachments/assets/d43805e8-c315-4450-b115-09b4c48295cd)
 (*Imagem mostrando a janela do Tkinter com botões de "Usar webcam" e "Analisar vídeo selecionado"*).
 
-**Figura 2:** Detecção de gesto em ação.  
+![Captura de tela 2025-06-04 114733](https://github.com/user-attachments/assets/085b50c0-f735-4404-9c92-0002b99f33b1)
 (*Imagem de uma pessoa com as mãos levantadas, com a mensagem “PEDIDO DE AJUDA DETECTADO” sobreposta.*)
 
-**Figura 3:** Detecção de queda.  
+![Captura de tela 2025-06-04 114559](https://github.com/user-attachments/assets/4f261655-2689-4adf-9fd6-951e3ddedd89)
 (*Imagem de uma pessoa no chão, com a linha vermelha no meio da tela e a mensagem “QUEDA DETECTADA”.*)
 
 ## ▶️ Vídeo Demonstrativo
@@ -46,4 +46,4 @@ Desenvolvemos um sistema em Python utilizando MediaPipe capaz de:
 3. Escolha um vídeo da pasta /videos , use a webcam ou envie seu proprio video para analise.
 
 ### 👥 Integrantes
-
+Pedro Henrique Pedrosa Tavares - RM97877

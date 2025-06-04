@@ -18,6 +18,7 @@ def emitir_alerta(mensagem, som_path=None, tipo="geral"):
     
 
     ultimo_alerta[tipo] = agora
+    print("[ALERTA] " + mensagem)
 
     if som_path:
         try:

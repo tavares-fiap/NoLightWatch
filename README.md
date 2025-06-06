@@ -37,7 +37,7 @@ Desenvolvemos um sistema em Python utilizando MediaPipe capaz de:
 (*Imagem de uma pessoa no chão, com a linha vermelha no meio da tela e a mensagem “QUEDA DETECTADA”.*)
 
 ## ▶️ Vídeo Demonstrativo
-[🔗 Clique aqui para assistir ao vídeo](https://link-do-video.com)
+[🔗 Clique aqui para assistir ao vídeo](https://youtu.be/0sk_BvmYFnE)
 
 ## 📁 Como Executar
 1. Instale as dependências:
@@ -50,5 +50,7 @@ Desenvolvemos um sistema em Python utilizando MediaPipe capaz de:
 
 ### 👥 Integrantes
 Pedro Henrique Pedrosa Tavares - RM 97877
+
 Pedro Oliveira Valotto - RM 551445
+
 Guilherme Rocha Bianchini - RM 97974

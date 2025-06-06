@@ -5,7 +5,6 @@ import pygame
 import time
 
 pygame.mixer.init()
-
 ultimo_alerta = {}
 cooldown_segundos = 3  # tempo mínimo entre alertas iguais
 
@@ -34,10 +33,16 @@ def analisar_video(fonte):
         print("Erro ao abrir a câmera ou vídeo.")
         return
 
+    frame_count = 0
+
     while True:
         ret, frame = cap.read()
         if not ret:
             break
+        
+        frame_count += 1
+        if frame_count % 3 != 0:
+            continue  # Pula este frame, só processa 1 a cada 3
 
         # Processa gesto
         gesto_detectado = detect_gesture(frame)

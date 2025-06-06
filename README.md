@@ -51,3 +51,4 @@ Desenvolvemos um sistema em Python utilizando MediaPipe capaz de:
 ### 👥 Integrantes
 Pedro Henrique Pedrosa Tavares - RM 97877
 Pedro Oliveira Valotto - RM 551445
+Guilherme Rocha Bianchini - RM 97974
